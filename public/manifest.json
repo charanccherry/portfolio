@@ -1,0 +1,25 @@
+{
+  "short_name": "Charan Portfolio",
+  "name": "Charan Portfolio",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/syoft-technologies/image/upload/v1666265273/error%20images/web_logo_fa9udy.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://res.cloudinary.com/syoft-technologies/image/upload/v1666265273/error%20images/web_logo_fa9udy.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://res.cloudinary.com/syoft-technologies/image/upload/v1666265273/error%20images/web_logo_fa9udy.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
