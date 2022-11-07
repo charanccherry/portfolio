@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import AnimatedCursor from "react-animated-cursor"
+import AnimatedCursor from "react-animated-cursor";
 
 //components
 import Experience from "./components/ExperienceAccordians";
